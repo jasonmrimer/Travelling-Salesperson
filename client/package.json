@@ -20,7 +20,7 @@
     "cytoscape-grid-guide": "^2.3.0",
     "enzyme": "^3.10.0",
     "fetch-mock": "^7.3.9",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "react": "^16.9.0",
     "react-cytoscapejs": "^1.2.0",
     "react-dom": "^16.9.0",
